@@ -50,4 +50,3 @@ Passo 10. Model Deploy: Esta é a etapa final do projeto de ciência de dados. E
 
 * Todo o valor da fraude é maior que 10.000.
 # Verdade: Os valores são superiores a 10.000. Mas é importante notar que os valores sem fraude também são superiores a 100.000.
-https://github.com/juniorcl/transaction-fraud-detection/blob/main/reports/figures/hypothesis2_cycle1.png
